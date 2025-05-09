@@ -105,3 +105,4 @@ This project is licensed under the MIT License.
 
 - Dataset source: `calories.csv` (not provided in the repository; ensure you have it)
 - Built with scikit-learn and Gradio
+![image](https://github.com/user-attachments/assets/de6c3e89-dacb-4154-8876-ee8a42b5880d)
